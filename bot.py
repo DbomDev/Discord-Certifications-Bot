@@ -683,4 +683,4 @@ async def _tmc(ctx):
 # SETUP CMD
 
 
-client.run("OTQzMDQ4NTQ1NTEzMTExNTgz.YgtYZg.aeDCnDOz9xw2I-4x9sL5_XkdWUk")
+client.run("TOKEN")
